@@ -1,0 +1,11 @@
+- name: "others"
+  link: "others"
+
+- name: "projects"
+  link: "projects"
+
+- name: "papers"
+  link: "papers"
+
+- name: "about"
+  link: "index"
